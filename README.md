@@ -1,2 +1,2 @@
 # Seedlingmkdocs
-A documentation static webpage for the Seedling Project.
+A static documentation webpage for the Seedling Project.
